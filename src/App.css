@@ -1,0 +1,41 @@
+.container{
+  max-width: 500px !important;
+  margin: 15px;
+  padding: 5px;
+  border-radius: 10px !important;
+  background-color: rgb(224, 220, 220);
+
+}
+
+.card{
+  margin: 15px;
+  text-align: center;
+}
+
+.botones{
+  width: 100%;
+  height: 80px;
+}
+
+
+.botones button{
+  margin: 5px;
+  height: 45px;
+}
+
+.botones button:hover{
+background-color: black;
+}
+.titulo{
+text-align: center;
+}
+.data{
+  margin: 15px;
+  padding: auto;
+}
+.navBar{
+  background-color: rgb(161, 140, 140);
+  color: white;
+  padding: 10px;
+}
+
